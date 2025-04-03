@@ -1,0 +1,7 @@
+{
+  "configId": 1,
+  "numberOfTickets": 200,
+  "ticketReleaseRate": 3,
+  "customerRetrievalRate": 4,
+  "maxTicketCapacity": 92
+}
